@@ -20,14 +20,14 @@ Related to Networking
 #define WIFI_PASSWORD "pwnya11ya"
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyCCac6HO8_6z6UloSV_YNJwGE-iJjIlrQM"
+#define API_KEY "AIzaSyDJlpJpVNwQoqoxJPM7RExPtvR0v0hzh6U"
 
 // Insert Authorized Email and Corresponding Password
 #define USER_EMAIL "admin@capstonea9.id"
 #define USER_PASSWORD "nilaicapstonea"
 
 // Insert RTDB URLefine the RTDB URL
-#define DATABASE_URL "https://monitoring-web-app-8d4fd-default-rtdb.asia-southeast1.firebasedatabase.app/"
+#define DATABASE_URL "https://monitoring-mobile-app-6100c-default-rtdb.firebaseio.com/"
 
 
 // ===== User-Defined Object =====
